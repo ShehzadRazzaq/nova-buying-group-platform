@@ -2,6 +2,9 @@
 
 A platform I built for a buying group where members commit to brand-new Apple, gaming and collectible deals, buy with their own card, ship the sealed units in, and get paid back the retail price plus a per-unit commission — on top of keeping their card rewards.
 
+<p align="center"><img src="media/demo.gif" alt="Browsing Nova Buying Group" width="800"></p>
+<p align="center"><a href="media/demo.mp4">Watch the full-quality video</a></p>
+
 ## What it does
 
 **For members**
